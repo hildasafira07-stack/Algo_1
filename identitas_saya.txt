@@ -1,3 +1,4 @@
 nama: Hilda Safira
 prodi: Ilmu komputer
 nim: i.2610011
+Universitas djuanda bogor
